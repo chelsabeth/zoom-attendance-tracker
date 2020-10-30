@@ -1,5 +1,5 @@
 # zoom-attendance-tracker
-A simple tracker that helps you keep track of who is in your zoom video chat and easily take attendance
+A friendly bot that helps you keep track of who is in your zoom video chat and the duration they were in the meeting to easily take attendance.
 
 # Understand 🔎
 
