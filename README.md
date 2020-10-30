@@ -10,6 +10,23 @@ During my time teaching, I had to take attendance during zoom meetings. This can
 This tracker can help you easily keep track of your students and also the amount of time that they were in the meeting. No more being tricked into thinking that your students were in the lesson the whole time 👀
 
 
+# How it works ⭐️
+1. Follow these steps to generate a csv file from zoom when the meeting is complete 👇
+
+* Go to your zoom account and select "Reports" from the side panel.
+
+![report button](reportbutton.png)
+
+* Once you are in the Reports section, you should see two options...Usage and Meeting, from here, please select "Usage."
+
+![select usage](usageselection.png)
+
+* From here, you can now select the dates that the meeting took place and then click the "Export as CSV File" button.
+
+![csv export](csvexport.png)
+
+
+
 
 
 
