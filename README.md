@@ -11,7 +11,7 @@ This tracker can help you easily keep track of your students and also the amount
 
 
 # How it works ⭐️
-1. Generate a csv file from zoom when the meeting is over. Then follow these steps 👇
+1. Follow these steps to generate a csv file from zoom when the meeting is complete 👇
 
 * Go to your zoom account and select "Reports" from the side panel.
 
